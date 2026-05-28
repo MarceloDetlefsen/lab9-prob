@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # PDF
-.pdf
+*.pdf
 
 # Python
 __pycache__/
