@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # PDF
-*.pdf
+MM3014 - Lab09.pdf
 
 # Python
 __pycache__/
